@@ -1,4 +1,4 @@
-![adam-sandler.jpg](./adam-sandler.jpg)
+![adam-sandler.jpg](https://raw.githubusercontent.com/leunardo/leunardo/master/adam-sandler.jpg)
 
 <!--
 gems are eternal 
